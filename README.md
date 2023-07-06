@@ -41,7 +41,7 @@ The analysis is performed on the "Customer-Churn.csv" dataset, which contains in
 
 ## Contributors
 
-- [Your Name]
+- Usaid Hussain
 
 Feel free to contribute to this repository by adding more analysis techniques, improving the code, or exploring other aspects of customer churn.
 
