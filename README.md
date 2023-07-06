@@ -1,7 +1,5 @@
 # CodeClause_Customer_Churn_Analysis
 
-Sure! Here's a short README file for the customer churn analysis done using Python, pandas, matplotlib, and seaborn:
-
 ---
 
 # Customer Churn Analysis
@@ -46,5 +44,3 @@ The analysis is performed on the "Customer-Churn.csv" dataset, which contains in
 Feel free to contribute to this repository by adding more analysis techniques, improving the code, or exploring other aspects of customer churn.
 
 ---
-
-You can include this README file in your repository to provide an overview of the customer churn analysis and guide users on how to use and contribute to the project. Remember to update the "Contributors" section with the appropriate names.
